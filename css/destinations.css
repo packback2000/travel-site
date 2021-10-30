@@ -1,5 +1,5 @@
 .itinerary-cards_Hawaii {
-    background: url(../2.0-Assets/Images/hawaii.jpg);
+    background: url(../assets/Images/hawaii.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -9,7 +9,7 @@
 }
 
 .itinerary-cards_Iceland {
-    background: url(../2.0-Assets/Images/iceland.jpg);
+    background: url(../assets/Images/iceland.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -19,7 +19,7 @@
 }
 
 .itinerary-cards_Greece {
-    background: url(../2.0-Assets/Images/greece.jpg);
+    background: url(../assets/Images/greece.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
